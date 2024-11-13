@@ -28,8 +28,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-# Developed By: Jerowin Geo J A
-# Register Number: 212223100016
+### Developed By: Jerowin Geo J A
+### Register Number: 212223100016
 
 ### Input Grayscale Image and Color Image
 ```
